@@ -40,7 +40,7 @@
             return $d;
         }
 
-        echo afficherDate("EN"); ?>
+        echo afficherDate("FR"); ?>
 
     </h4>
     <br /><br />
